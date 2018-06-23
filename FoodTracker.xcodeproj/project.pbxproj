@@ -9,10 +9,10 @@
 /* Begin PBXBuildFile section */
 		521A7EB020DD978E00244878 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521A7EAF20DD978E00244878 /* AppDelegate.swift */; };
 		521A7EB220DD978E00244878 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521A7EB120DD978E00244878 /* ViewController.swift */; };
-		521A7EB520DD978E00244878 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 521A7EB320DD978E00244878 /* Main.storyboard */; };
 		521A7EB720DD978E00244878 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 521A7EB620DD978E00244878 /* Assets.xcassets */; };
 		521A7EBA20DD978E00244878 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 521A7EB820DD978E00244878 /* LaunchScreen.storyboard */; };
 		521A7EC520DD978E00244878 /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521A7EC420DD978E00244878 /* FoodTrackerTests.swift */; };
+		521A7ED120DEA31800244878 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 521A7EB320DD978E00244878 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -179,9 +179,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				521A7ED120DEA31800244878 /* Main.storyboard in Resources */,
 				521A7EBA20DD978E00244878 /* LaunchScreen.storyboard in Resources */,
 				521A7EB720DD978E00244878 /* Assets.xcassets in Resources */,
-				521A7EB520DD978E00244878 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
