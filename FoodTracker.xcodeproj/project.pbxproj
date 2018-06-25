@@ -14,6 +14,7 @@
 		521A7EC520DD978E00244878 /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521A7EC420DD978E00244878 /* FoodTrackerTests.swift */; };
 		521A7ED120DEA31800244878 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 521A7EB320DD978E00244878 /* Main.storyboard */; };
 		521A7ED320E13A8400244878 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521A7ED220E13A8400244878 /* RatingControl.swift */; };
+		521A7ED520E17F3500244878 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521A7ED420E17F3500244878 /* Meal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		521A7EC420DD978E00244878 /* FoodTrackerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerTests.swift; sourceTree = "<group>"; };
 		521A7EC620DD978E00244878 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		521A7ED220E13A8400244878 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
+		521A7ED420E17F3500244878 /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				521A7EB120DD978E00244878 /* ViewController.swift */,
 				521A7ED220E13A8400244878 /* RatingControl.swift */,
 				521A7EB320DD978E00244878 /* Main.storyboard */,
+				521A7ED420E17F3500244878 /* Meal.swift */,
 				521A7EB620DD978E00244878 /* Assets.xcassets */,
 				521A7EB820DD978E00244878 /* LaunchScreen.storyboard */,
 				521A7EBB20DD978E00244878 /* Info.plist */,
@@ -202,6 +205,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				521A7ED520E17F3500244878 /* Meal.swift in Sources */,
 				521A7EB220DD978E00244878 /* ViewController.swift in Sources */,
 				521A7ED320E13A8400244878 /* RatingControl.swift in Sources */,
 				521A7EB020DD978E00244878 /* AppDelegate.swift in Sources */,
